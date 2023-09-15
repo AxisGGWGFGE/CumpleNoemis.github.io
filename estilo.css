@@ -1,0 +1,45 @@
+*{
+
+padding: 0;
+margin: 0;
+}
+h1{
+text-align: center;
+background-color: black;
+color: grey;
+padding: 20px;
+}
+nav ul {
+ background-color: #FFF59D ;
+ width:100%;
+ list-style-type: none;
+ text-align: center;
+}
+nav li{
+display: inline-flex;
+}
+nav a{
+text-decoration: none;
+color: grey ;
+padding: 10px;
+width:150px;
+
+}
+nav li:hover {
+background-color: black;
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+.contenido{
+display: flex;
+margin: 60px;
+
+}
+
+.secciones{
+display: flex;
+align-items: center;ig
+padding: 70px;
+}
